@@ -10,13 +10,21 @@
   }
 
   .mini-img {
-    height: 50px;
+    height: 30px;
   }
 
   .fight-field {
-    height: 80vh;
+    height: 85vh;
   }
 
   .monster-size {
-    width: 750px;
+    width: 300px;
+  }
+
+  .hero-size {
+    height: 250px;
+  }
+
+  .companion-size {
+    height: 100px;
   }
