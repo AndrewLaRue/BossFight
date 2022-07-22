@@ -2,7 +2,7 @@ const heroes = {
     soldier76:{
         health: 100,
         attack: 25,
-        img: 'assets/Hero gun.gif'
+        img: '/assets/Hero gun.gif'
     },
     // blade: {
     //     health: 100,
@@ -37,7 +37,7 @@ const monsters = {
     TriEye:{
         health: 100,
         attack: 25,
-        img: 'assets/Monster Eye.gif',
+        img: '/assets/Monster Eye.gif',
         level: 1
     },
     // ghost:{
@@ -55,7 +55,7 @@ const monsters = {
 const companions = {
   wolf: {
     rounds: 0,
-    img: 'assets/Companion Wolf.gif'
+    img: '/assets/Companion Wolf.gif'
   }
 }
 
